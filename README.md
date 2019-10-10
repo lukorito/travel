@@ -1,4 +1,4 @@
 # Travel 
 A react application for travel
 
-Link: https://flamboyant-visvesvaraya-9422bd.netlify.com/
+Link: https://mystifying-nobel-56c805.netlify.com/
